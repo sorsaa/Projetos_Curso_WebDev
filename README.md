@@ -1,2 +1,2 @@
 # Projetos_Curso_WebDev
-Um repositorio para eu colocar meus estudos do segundo curso de t.i que faço.
+Nesse repositorio, eu pretendo 'documentar' um pouco das minha atividades semanais no desenvolvimento do curso de web developer que comecei recentemente, faço isso para ter como lembrança e por missão do curso.
